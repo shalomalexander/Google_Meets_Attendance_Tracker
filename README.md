@@ -1,5 +1,5 @@
 # Google_Meets_Attendance_Tracker
-This Attendance Tracker is designed to mark attendance of participants existing in Google Meets Online meeting and will mark ABSENT or PRESENT according to the duration of time he or she was in the meeting.
+This Attendance Tracker is designed to mark attendance of participants existing in Google Meets Online meeting and will mark ABSENT or PRESENT according to the duration of time he or she was in the meeting. It was developed with a vision to help college faculties to mark attendance of student in a autonomous manner during the Covid 19 lockdown. So that they don't have to manually check each student.
 
 ### PYQT GUI
 
